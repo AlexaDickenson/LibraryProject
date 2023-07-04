@@ -1,0 +1,25 @@
+# Library System
+
+This is a basic Spring application that simulates a Library system. It allows you to manage books and authors using a web interface.
+
+
+## Testing the Application
+
+1. Locate the `LibraryApplication` class in `com.example.library`.
+
+2. Run the application by right-clicking on the class and selecting "Run".
+
+3. Open your web browser and go to `http://localhost:8080` (or the specified port).
+
+4. Use the web interface to create, read, update, and delete books and authors.
+
+## Functionality
+
+- Create: Add new books and authors through the provided forms.
+
+- Read: View the list of existing books and authors.
+
+- Update: Edit book and author information via the respective forms.
+
+- Delete: Remove books and authors from the system.
+
